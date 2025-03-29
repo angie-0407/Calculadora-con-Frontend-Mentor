@@ -120,3 +120,18 @@ input {
     border: none;
     width: 100%;
 }
+
+#tip-custom input{
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.peoplelabel{
+    display: flex;
+    justify-content: space-between;
+}
+
+.error{
+    color: red;
+    display: none;
+}
