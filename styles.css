@@ -88,3 +88,23 @@ input {
     padding: 39px 21px;
     border-radius: 12px;
 }
+
+.tip-amount , .total{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.7rem;
+}
+
+.person  {
+    font-size: 12px;
+    color: hsl(184, 14%, 56%);
+    font-weight: 700;
+}
+
+.amount {
+    font-size: 28px;
+    color: hsl(172, 67%, 45%);
+    font-weight: 700;
+}
+
